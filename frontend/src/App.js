@@ -10,7 +10,7 @@ function App() {
   }
 
   const closeMenu = () => {
-    document.querySelector(".sidebar").classList.add("open")
+    document.querySelector(".sidebar").classList.remove("open")
 
   }
 
@@ -20,7 +20,7 @@ function App() {
       <header class="header">
 
         <div class="brand">
-          <button onclick="openMenu()">
+          <button onClick={openMenu}>
             &#9776;</button>
           <a href="index.html">Ronafii</a>
         </div>
@@ -31,7 +31,7 @@ function App() {
       </header>
       <aside class="sidebar">
         <h3>Shopping Categories</h3>
-        <button class="sidebar-close-button" onclick="closeMenu()">x</button>
+        <button class="sidebar-close-button" onClick={closeMenu}>x</button>
         <ul>
           <li>
             <a href="index.html">Pants</a>
