@@ -8,8 +8,6 @@ https://www.dagusa.com/
 
 https://vcstarterkit.com/#purchase
 
-Link:
-
 ## Technologies Used
 
 React
