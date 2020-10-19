@@ -7,8 +7,8 @@ function Header() {
     return (
         // Logo on navbar + searchbar + buttons on navbar, sign in + orders + cart
         <div className='header'>
-            <img className="header__logo" src="https://financialtribune.com/sites/default/files/styles/360x260/public/field/image/17january/coronavirus.png?itok=uGQ6wXam&c=3063b7d0d2b2eedd412294286f2cfa3b"/>
-
+            <img className="header__logo" src="https://financialtribune.com/sites/default/files/styles/360x260/public/field/image/17january/coronavirus.png?itok=uGQ6wXam&c=3063b7d0d2b2eedd412294286f2cfa3b"></img>
+    
             <div className="header__search">
                 <input className="header__searchInput" type="text" />
                 <SearchIcon className="header__searchIcon"/>
