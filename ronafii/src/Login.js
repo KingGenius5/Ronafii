@@ -38,7 +38,7 @@ function Login() {
       <Link to="/">
         <img
           className="login__logo"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
+          src="https://financialtribune.com/sites/default/files/styles/360x260/public/field/image/17january/coronavirus.png?itok=uGQ6wXam&c=3063b7d0d2b2eedd412294286f2cfa3b"
         />
       </Link>
 
@@ -70,9 +70,9 @@ function Login() {
         </form>
 
         <p>
-          By signing-in you agree to the AMAZON FAKE CLONE Conditions of Use &
-          Sale. Please see our Privacy Notice, our Cookies Notice and our
-          Interest-Based Ads Notice.
+          By signing-in you agree to the RONAFII Conditions of Use & Sale.
+          Please see our Privacy Notice, our Cookies Notice and our
+          Interest-Based Ads Notice. Don't worry, we're not Facebook!
         </p>
 
         <button onClick={register} className="login__registerButton">

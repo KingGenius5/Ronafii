@@ -20,7 +20,7 @@ function Header() {
       <Link to="/">
         <img
           className="header__logo"
-          src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+          src="https://financialtribune.com/sites/default/files/styles/360x260/public/field/image/17january/coronavirus.png?itok=uGQ6wXam&c=3063b7d0d2b2eedd412294286f2cfa3b"
         />
       </Link>
 
