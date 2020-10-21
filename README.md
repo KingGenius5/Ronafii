@@ -10,3 +10,8 @@ https://vcstarterkit.com/#purchase
 
 
 ## Stacks Used
+
+Express
+React
+Stripe
+Firebase
