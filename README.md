@@ -15,10 +15,10 @@ https://vcstarterkit.com/#purchase
 
 ## Stacks Used
 
-Express
-React
-Stripe
-Firebase
+- Express
+- React
+- Stripe
+- Firebase
 
 ## How to use
 
